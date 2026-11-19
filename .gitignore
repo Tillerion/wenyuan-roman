@@ -1,0 +1,9 @@
+*.ttf
+*.otf
+*.ttc
+*.otc
+*.woff
+*.woff2
+__pycache__/
+.DS_Store
+Thumbs.db
